@@ -1,0 +1,178 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/commons-64d645edc14ba515eab2.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-community-license-template-js-97046b9c5a3c4e85cb47.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-800a85ca4c855516514e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-a60469c7524a161833eb.js
+  Cache-Control: public, max-age=31536000, immutable
+/abf838792012ead6fe50b1e1ceb5d39983944d66-16f1d58aec99236c90a5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-feats-js-91f7b81bbf7786aa37d9.js
+  Cache-Control: public, max-age=31536000, immutable
+/d9b3bde4a12d58b919bc3d6ac460b78266533593-b42d8068f491cef2bc76.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-boons-js-e795468ccd07ef5fa426.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-banes-js-04c9e9360afde17b3a63.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-04f2269821bccb234e32.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-d74c66e764c8ff025099.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-16a5f76530bad81c5c30.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/open-legend/core-rules/introduction
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/introduction/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/character-creation
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/character-creation/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/actions-attributes
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/actions-attributes/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/banes-boons
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/banes-boons/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/feats
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/feats/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/perks-flaws
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/perks-flaws/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/wealth-equipment
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/wealth-equipment/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/combat
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/combat/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/running-the-game
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/running-the-game/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/core-rules/special-equipment
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-core-rules-template-js-2e7aec50b1dd4b271a57.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/core-rules/special-equipment/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/community-license
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-templates-community-license-template-js-97046b9c5a3c4e85cb47.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/community-license/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/404/
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-pages-404-js-800a85ca4c855516514e.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-pages-index-js-a60469c7524a161833eb.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/feats/[...]/
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/abf838792012ead6fe50b1e1ceb5d39983944d66-16f1d58aec99236c90a5.js>; rel=preload; as=script
+  Link: </open-legend/component---src-pages-feats-js-91f7b81bbf7786aa37d9.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/feats/[...]/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/boons/[...]/
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/abf838792012ead6fe50b1e1ceb5d39983944d66-16f1d58aec99236c90a5.js>; rel=preload; as=script
+  Link: </open-legend/d9b3bde4a12d58b919bc3d6ac460b78266533593-b42d8068f491cef2bc76.js>; rel=preload; as=script
+  Link: </open-legend/component---src-pages-boons-js-e795468ccd07ef5fa426.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/boons/[...]/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/banes/[...]/
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/abf838792012ead6fe50b1e1ceb5d39983944d66-16f1d58aec99236c90a5.js>; rel=preload; as=script
+  Link: </open-legend/d9b3bde4a12d58b919bc3d6ac460b78266533593-b42d8068f491cef2bc76.js>; rel=preload; as=script
+  Link: </open-legend/component---src-pages-banes-js-04c9e9360afde17b3a63.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/banes/[...]/page-data.json>; rel=preload; as=fetch; crossorigin
+/open-legend/404.html
+  Link: </open-legend/webpack-runtime-04f2269821bccb234e32.js>; rel=preload; as=script
+  Link: </open-legend/framework-d74c66e764c8ff025099.js>; rel=preload; as=script
+  Link: </open-legend/app-16a5f76530bad81c5c30.js>; rel=preload; as=script
+  Link: </open-legend/commons-64d645edc14ba515eab2.js>; rel=preload; as=script
+  Link: </open-legend/component---src-pages-404-js-800a85ca4c855516514e.js>; rel=preload; as=script
+  Link: </open-legend/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </open-legend/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
